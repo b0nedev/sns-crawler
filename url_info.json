@@ -1,0 +1,23 @@
+{
+  "protocol": "https",
+  "youtube": {
+    "top_url": "www.googleapis.com",
+    "search_url": "youtube/v3/search",
+    "body_url": "youtube/v3/videos",
+    "reply_url": "youtube/v3/commentThreads",
+    "plist_url": "youtube/v3/playlists",
+    "pitem_url": "youtube/v3/playlistItems",
+    "channel_url": "youtube/v3/channels"
+  },
+  "insta": {
+    "list_url":"https://wwww.instagram",
+    "body_url":"",
+    "reply_url":""
+  },
+  "twitter":{
+    "list_url":"",
+    "body_url":"",
+    "reply_url":""
+  }
+
+}
